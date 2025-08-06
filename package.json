@@ -4,6 +4,18 @@
   "version": "1.0.0",
   "type": "module",
   "browser": false,
+  "keywords": [
+    "debug",
+    "logging",
+    "cli",
+    "udp",
+    "log-monitoring",
+    "terminal-ui",
+    "developer-tools",
+    "log-visualization",
+    "microservices",
+    "splitlog"
+  ],
   "scripts": {
     "start": "node ./bin/splitlog.mjs",
     "test": "node ./examples/debug-logger.mjs"
