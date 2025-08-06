@@ -31,8 +31,6 @@
 
 ---
 
-## CLI Monitor
-
 ![CLI Monitor Demo](splitlog-demo.gif)
 
 ---
