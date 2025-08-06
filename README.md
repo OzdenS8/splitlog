@@ -31,7 +31,7 @@
 
 ---
 
-![CLI Monitor Demo](splitlog-demo.gif)
+![CLI Monitor Demo](https://raw.githubusercontent.com/dsheiko/splitlog/main/splitlog-demo.gif)
 
 ---
 
