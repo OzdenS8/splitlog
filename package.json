@@ -1,5 +1,5 @@
 {
-  "name": "splitlog",
+  "name": "@dsheiko/splitlog",
   "description": "A minimalistic logger transport that forwards debug logs over UDP and lets you visualize different log channels in separate terminal windows with a simple CLI tool. Perfect for managing noisy logs in local or distributed development.",
   "version": "1.0.0",
   "type": "module",

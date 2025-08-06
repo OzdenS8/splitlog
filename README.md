@@ -40,7 +40,7 @@
 ## Installation
 
 ```bash
-npm install splitlog
+npm install @dsheiko/splitlog
 ```
 
 
@@ -72,7 +72,7 @@ The CLI will automatically:
 
 ```js
 import debug from "debug";
-import splitlog from "splitlog";
+import splitlog from "@dsheiko/splitlog";
 
 const logApp = splitlog( debug( "APP" ) );
 const logDb = splitlog( debug( "DB" ) );
