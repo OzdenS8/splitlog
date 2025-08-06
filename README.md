@@ -38,7 +38,7 @@
 ## Installation
 
 ```bash
-npm install @dsheiko/splitlog
+npm install -g @dsheiko/splitlog
 ```
 
 
