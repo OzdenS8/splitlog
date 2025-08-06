@@ -45,7 +45,6 @@ temp/
 
 # OBS or recordings (if present in project)
 *.mp4
-*.gif
 *.webm
 
 # Custom ignore patterns
