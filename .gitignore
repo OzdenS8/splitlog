@@ -1,0 +1,57 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Coverage / testing
+coverage/
+.nyc_output/
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# Optional: user-channel info for splitlog
+*.channel
+*.port
+
+# OBS or recordings (if present in project)
+*.mp4
+*.gif
+*.webm
+
+# Custom ignore patterns
+*.log.json
+debug.log
+
+# System files
+*.swp
+*~

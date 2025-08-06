@@ -1,0 +1,26 @@
+{
+  "name": "splitlog",
+  "description": "A minimalistic logger transport that forwards debug logs over UDP and lets you visualize different log channels in separate terminal windows with a simple CLI tool. Perfect for managing noisy logs in local or distributed development.",
+  "version": "1.0.0",
+  "type": "module",
+  "browser": false,
+  "scripts": {
+    "start": "node ./bin/splitlog.mjs",
+    "test": "node ./examples/debug-logger.mjs"
+  },
+  "exports": {
+    ".": "./src/logger/index.js"
+  },
+  "bin": {
+    "splitlog": "./bin/splitlog.mjs"
+  },
+  "dependencies": {
+    "debug": "^4.3.4",
+    "blessed": "^0.1.81",
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
